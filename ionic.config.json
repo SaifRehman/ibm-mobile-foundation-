@@ -1,0 +1,7 @@
+{
+  "name": "MFPUserLogin",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
